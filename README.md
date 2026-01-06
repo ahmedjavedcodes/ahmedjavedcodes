@@ -54,5 +54,4 @@ n8n
 
 **Connect with Me**
 Email: ahmedjaved.codes@gmail.com
-LinkedIn: [Your LinkedIn URL]
-Based in: Pakistan 🇵🇰
+
