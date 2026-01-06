@@ -46,12 +46,19 @@ TailwindCss
 
 
 Python
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 Langchain
+
 n8n
 
 **Design:**
