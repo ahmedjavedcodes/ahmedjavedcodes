@@ -20,9 +20,11 @@ Engineering end-to-end ML pipelines: Data Cleaning → EDA → Model Selection �
 
 **2. Sybrid Marcom | Graphic Design Intern 1.5 Years**
 
-Crafted digital marketing assets and UI designs for the Marcom department.
+Social Media Design: Engineered high-impact visual content and social media post designs to drive digital engagement.
 
-Contributed to high-level innovation projects, ensuring visual consistency and technical feasibility.
+Branding & Identity: Developed and maintained cohesive brand identities, ensuring visual consistency across all corporate assets.
+
+UI/UX Strategy: Crafted intuitive UI designs for high-level innovation projects, balancing aesthetic appeal with technical feasibility.
 
 
 
