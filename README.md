@@ -55,6 +55,8 @@ Langchain
 n8n
 
 **Design:**
+
+
 Adobe Illustrator
 Adobe Photoshop
 Figma
