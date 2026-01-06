@@ -58,7 +58,9 @@ n8n
 
 
 Adobe Illustrator
+
 Adobe Photoshop
+
 Figma
 
 **Connect with Me**:
