@@ -8,7 +8,7 @@ I am a Bachelors in Artificial Intelligence (5th Semester) student currently bri
 
 
 
-Professional Experience:
+**Professional Experience:**
 
 **1. Sybrid Innovation Division | Machine Learning Intern Present**
 
@@ -37,9 +37,13 @@ Built responsive, user-centric interfaces using React.js and Tailwind CSS.
 **Frontend Skills & Languages:**
 
 Html
+
 CSS
+
 Javascript
+
 React.js
+
 TailwindCss
 
 **Ai/Ml Skills & Languages:**
