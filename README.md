@@ -43,6 +43,8 @@ React.js
 TailwindCss
 
 **Ai/Ml Skills & Languages:**
+
+
 Python
 Numpy
 Pandas
@@ -52,6 +54,13 @@ Scikit-learn
 Langchain
 n8n
 
-**Connect with Me**
+**Design:**
+Adobe Illustrator
+Adobe Photoshop
+Figma
+
+**Connect with Me**:
+
+
 Email: ahmedjaved.codes@gmail.com
 
