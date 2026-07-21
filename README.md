@@ -1,83 +1,45 @@
-**Muhammad Ahmed Javed**
+# Muhammad Ahmed Javed 
 
-Graphic Designer | Frontend Developer | Machine Learning Engineer Intern
+"Bridging design, code, and artificial intelligence to build systems that think."
 
-"Visualizing ideas into design and design into code."
+I am an **AI Engineer** and **Bachelors in Artificial Intelligence (6th Semester)** student bridging the gap between aesthetics, logic, and intelligent systems. I specialize in engineering end-to-end RAG pipelines, agentic AI workflows, and modern web applications.
 
-I am a Bachelors in Artificial Intelligence (5th Semester) student currently bridging the gap between aesthetics and logic. I specialize in creating intuitive user interfaces, developing robust front-end systems, and training intelligent machine learning models.
+ # Connect
 
-
-
-**Professional Experience:**
-
-**1. Sybrid Innovation Division | Machine Learning Intern Present**
-
-Developing predictive models and performing in-depth data analysis.
-
-Engineering end-to-end ML pipelines: Data Cleaning → EDA → Model Selection → Deployment.
+**Email:** [ahmedjaved.codes@gmail.com](mailto:ahmedjaved.codes@gmail.com)
+**Phone:** +92 317 8433864
 
 
+### Professional Experience
 
-**2. Sybrid Marcom | Graphic Design Intern 1.5 Years**
-
-Social Media Design: Engineered high-impact visual content and social media post designs to drive digital engagement.
-
-Branding & Identity: Developed and maintained cohesive brand identities, ensuring visual consistency across all corporate assets.
-
-UI/UX Strategy: Crafted intuitive UI designs for high-level innovation projects, balancing aesthetic appeal with technical feasibility.
+- **AI Developer Intern** | *Sybrid | Innovation Division* `(1 Year)`
+- **Frontend Developer** | *Self Hustle* `(1 Year)`
+- **Graphic Designer** | *Sybrid | Marcom* `(1.5 Years)`
 
 
 
-**3. Frontend Developer | Project-Based**
+### Core Skills
 
-Translated Figma/Photoshop designs into clean, semantic HTML, CSS, and JavaScript.
-
-Built responsive, user-centric interfaces using React.js and Tailwind CSS.
-
-
-
-**Frontend Skills & Languages:**
-
-Html
-
-CSS
-
-Javascript
-
-React.js
-
-TailwindCss
-
-**Ai/Ml Skills & Languages:**
+**AI & Data:** LLMs, APIs, RAG Systems, MCP
+**Frontend:** Next.js, Tailwind CSS
+**Tools & Libraries:** LangChain, Selenium, BeautifulSoup, Python, WordPress
 
 
-Python
+### Projects
 
-Numpy
+#### AI & RAG Projects
+- **HydraRAG** – Multi-modal RAG system capable of parsing & processing images, PDFs, CSVs, XLS files, and web pages via URL scraping.
+- **Sybrid MD Automation** – Automated document processing and browser workflow pipeline built with LLMs and Selenium.
+- **Farmer Helper RAG** – Specialized Retrieval Augmented Generation assistant designed for agricultural guidance.
+- **RAG Scraper Bot** – Web scraping and indexing pipeline leveraging BeautifulSoup4 and LangChain.
 
-Pandas
+#### Machine Learning & Deep Learning
+- **Dietary Estimation System** *(Deep Learning)* – Food intake & mass estimation using **YOLO Segmentation** and **XGBoostRegressor**.
+- **AI Phishing Detection System** *(ML)* – Intelligent classification system to identify phishing URLs and scam communications using NLP & RandomForest.
+- **Cafe Enhancement System** *(ML)* – Data driven operational optimization model for local dining establishments using Blockchain & SVM.
+- **House Price Prediction** *(ML)* – Predictive real estate valuation model built using regression algorithms.
 
-Matplotlib
-
-Seaborn
-
-Scikit-learn
-
-Langchain
-
-n8n
-
-**Design:**
-
-
-Adobe Illustrator
-
-Adobe Photoshop
-
-Figma
-
-**Connect with Me**:
-
-
-Email: ahmedjaved.codes@gmail.com
-
+#### Frontend Web Development
+- **Digisinc Website** – Modern corporate landing page built with **React.js** and **Tailwind CSS**.
+- **Hijab Store** – E-commerce frontend engineered with **HTML/CSS/JS** and integrated with a **WordPress** backend.
+- **YSphotography Website** – Responsive portfolio website designed using **HTML**, **Tailwind CSS**, and **JavaScript**.
