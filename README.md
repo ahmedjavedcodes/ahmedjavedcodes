@@ -20,7 +20,7 @@ I am an **AI Engineer** and **Bachelors in Artificial Intelligence (6th Semester
 
 ### Core Skills
 
-- **AI & Data:** LLMs, APIs, RAG Systems, MCP
+- **AI & Data:** LLMs, APIs, RAG Systems, MCP, VectorDB
 - **Frontend:** Next.js, Tailwind CSS
 - **Tools & Libraries:** LangChain, Selenium, BeautifulSoup, Python, WordPress
 
