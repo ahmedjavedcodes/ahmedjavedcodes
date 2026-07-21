@@ -28,15 +28,15 @@ I am an **AI Engineer** and **Bachelors in Artificial Intelligence (6th Semester
 ### Projects
 
 #### AI & RAG Projects
-- **HydraRAG** – Multi-modal RAG system capable of parsing & processing images, PDFs, CSVs, XLS files, and web pages via URL scraping.
-- **Sybrid MD Automation** – Automated document processing and browser workflow pipeline built with LLMs and Selenium.
+- **HydraRAG** – Multi-modal RAG system capable of parsing & processing images, PDFs, CSVs, XLS files, and web pages via URL scraping built using **LLM**,  **VisionLLM**, **BeautifulSoap4** & **Langchain** .
+- **Sybrid MD Automation** – Automated document processing and browser workflow pipeline built with **LLMs** and **Selenium**.
 - **Farmer Helper RAG** – Specialized Retrieval Augmented Generation assistant designed for agricultural guidance.
-- **RAG Scraper Bot** – Web scraping and indexing pipeline leveraging BeautifulSoup4 and LangChain.
+- **RAG Scraper Bot** – Web scraping and indexing pipeline leveraging **BeautifulSoup4** and **LangChain**.
 
 #### Machine Learning & Deep Learning
 - **Dietary Estimation System** *(Deep Learning)* – Food intake & mass estimation using **YOLO Segmentation** and **XGBoostRegressor**.
-- **AI Phishing Detection System** *(ML)* – Intelligent classification system to identify phishing URLs and scam communications using NLP & RandomForest.
-- **Cafe Enhancement System** *(ML)* – Data driven operational optimization model for local dining establishments using Blockchain & SVM.
+- **AI Phishing Detection System** *(ML)* – Intelligent classification system to identify phishing URLs and scam communications using **NLP** & **RandomForest**.
+- **Cafe Enhancement System** *(ML)* – Data driven operational optimization model for local dining establishments using **Blockchain** & **SVM**.
 - **House Price Prediction** *(ML)* – Predictive real estate valuation model built using regression algorithms.
 
 #### Frontend Web Development
